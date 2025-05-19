@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **web development projects**
 - 📘 I’m learning **Advanced Python** and exploring new technologies
 - 💬 Ask me about Java, Python, HTML, CSS, or open-source
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-link/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dibyajyoti-roychoudhury-6b4a92284/)
 - 🤓 Fun fact: I love solving puzzles and exploring new tech!
 
 ---
