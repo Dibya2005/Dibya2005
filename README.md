@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="120" alt="Dibya2005 Avatar" style="border-radius:50%;" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQHdndiVNEIlmA/profile-displayphoto-shrink_800_800/B56ZZg7FKqHgAc-/0/1745382824445?e=1753315200&v=beta&t=8VLLBnge-1ZMMU88fqIpeybql0fIvxqAKc-qttq9nM0" width="120" alt="Dibya2005 Avatar" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi there, I'm Dibya 👋</h1>
