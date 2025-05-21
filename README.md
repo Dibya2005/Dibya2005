@@ -7,23 +7,22 @@
 
 <p align="center">
   <b>Welcome to my GitHub profile!</b><br>
-  <i>Passionate coder, open-source enthusiast, and lifelong learner.</i>
+  <i>Passionate coder and lifelong learner.</i>
 </p>
 
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Dibya!;A+Passionate+Developer;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Dibya!;A+Passionate+Developer;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **web development projects**
-- 📘 I’m learning **Advanced Python** and exploring new technologies
-- 💬 Ask me about Java, Python, HTML, CSS, or open-source
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dibyajyoti-roychoudhury-6b4a92284/)
-- 🤓 Fun fact: I love solving puzzles and exploring new tech!
+- 📘 Deep diving into **Advanced Python** and modern tech tools  
+- 💬 Happy to talk about **Java, Python, HTML, or CSS**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dibyajyoti-roychoudhury-6b4a92284/)
+- 🤓 **Fun fact:** I love solving logic puzzles and exploring new tech stacks!
 
 ---
 
